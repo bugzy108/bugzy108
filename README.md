@@ -2,7 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab (AlgoExpert)</b>
+- Using Linux commands to manage file permissions
+- Conducting a security Audit
+- Applying filters to SQL queries
+- Identifying vulberabilities for a small business
+- Importing and parsing a text file in a security-related scenario
+- Proffesional Statement
+- Analyzing network structure and security
+- Documenting incidents with an incident Handler's journal 
 
 <h2>Ceritfications</h2> 
 - Google Cybersecurity Certification https://coursera.org/share/d48a339851f8a08dbbd29587418032b0
