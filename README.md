@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Using Linux commands to manage file permissions[File permissions in Linux for portifolio.pdf](https://github.com/user-attachments/files/17264020/File.permissions.in.Linux.for.portifolio.pdf)
+- Using Linux commands to manage file permissions [File permissions in Linux for portifolio.pdf](https://github.com/user-attachments/files/17264020/File.permissions.in.Linux.for.portifolio.pdf)
 
 - Conducting a security Audit
 - Applying filters to SQL queries
