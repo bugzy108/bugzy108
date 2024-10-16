@@ -5,7 +5,8 @@
 - Using Linux commands to manage file permissions [File permissions in Linux for portifolio (1).pdf](https://github.com/user-attachments/files/17297178/File.permissions.in.Linux.for.portifolio.1.pdf)
 
 
-- Conducting a security Audit
+- Conducting a security Audit [Controls and compliance checklist r.pdf](https://github.com/user-attachments/files/17403679/Controls.and.compliance.checklist.r.pdf)
+
 - Applying filters to SQL queries
 - Identifying vulberabilities for a small business
 - Importing and parsing a text file in a security-related scenario
