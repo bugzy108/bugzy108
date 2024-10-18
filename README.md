@@ -7,7 +7,7 @@
 
 - Conducting a security Audit [Controls and compliance checklist r.pdf](https://github.com/user-attachments/files/17403679/Controls.and.compliance.checklist.r.pdf)
 
-- Applying filters to SQL queries [Download My Project](https://github.com/your-username/your-repo/raw/main/Apply filters to SQL queries .pdf)
+- Applying filters to SQL queries [Download My Project](https://github.com/your-username/your-repo/raw/main/ApplyfilterstoSQLqueries .pdf)
   
 - Identifying vulberabilities for a small business
 - Importing and parsing a text file in a security-related scenario
