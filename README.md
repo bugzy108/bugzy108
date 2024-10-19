@@ -1,15 +1,15 @@
 <h1>Hi, I'm Isaac! I am a part-time Cybersecurity Student.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2> https://github.com/bugzy108/bugzy108.git
 
-- Using Linux commands to manage file permissions [File permissions in Linux for portifolio (1).pdf](https://github.com/user-attachments/files/17297178/File.permissions.in.Linux.for.portifolio.1.pdf)
+- Using Linux commands to manage file permissions 
 
 
-- Conducting a security Audit [Controls and compliance checklist r.pdf](https://github.com/user-attachments/files/17403679/Controls.and.compliance.checklist.r.pdf)
+- Conducting a security Audit 
 
-- Applying filters to SQL queries [Download My Project](https://github.com/your-username/your-repo/raw/main/ApplyfilterstoSQLqueries .pdf)
+- Applying filters to SQL queries 
   
-- Identifying vulberabilities for a small business https://github.com/bugzy108/bugzy108.git
+- Identifying vulberabilities for a small business 
 - Importing and parsing a text file in a security-related scenario
 - Proffesional Statement
 - Analyzing network structure and security
