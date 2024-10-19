@@ -9,7 +9,7 @@
 
 - Applying filters to SQL queries [Download My Project](https://github.com/your-username/your-repo/raw/main/ApplyfilterstoSQLqueries .pdf)
   
-- Identifying vulberabilities for a small business
+- Identifying vulberabilities for a small business https://github.com/bugzy108/bugzy108.git
 - Importing and parsing a text file in a security-related scenario
 - Proffesional Statement
 - Analyzing network structure and security
